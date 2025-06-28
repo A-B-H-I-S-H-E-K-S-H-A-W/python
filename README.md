@@ -26,7 +26,7 @@ The exercises are organized by key Python topics from the W3Schools course:
 ## 📂 Structure
 
 ```bash
-python-w3schools-practice/
+python/
 ├── 01_syntax_variables/
 ├── 02_data_types/
 ├── 03_operators/
